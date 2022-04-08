@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coba-app/static/css/main.07f21e62.css",
+    "main.js": "/coba-app/static/js/main.b504af86.js",
+    "index.html": "/coba-app/index.html",
+    "main.07f21e62.css.map": "/coba-app/static/css/main.07f21e62.css.map",
+    "main.b504af86.js.map": "/coba-app/static/js/main.b504af86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07f21e62.css",
+    "static/js/main.b504af86.js"
+  ]
+}
