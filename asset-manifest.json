@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/coba-app/static/css/main.07f21e62.css",
-    "main.js": "/coba-app/static/js/main.b504af86.js",
+    "main.js": "/coba-app/static/js/main.4b9d2fdb.js",
     "index.html": "/coba-app/index.html",
     "main.07f21e62.css.map": "/coba-app/static/css/main.07f21e62.css.map",
-    "main.b504af86.js.map": "/coba-app/static/js/main.b504af86.js.map"
+    "main.4b9d2fdb.js.map": "/coba-app/static/js/main.4b9d2fdb.js.map"
   },
   "entrypoints": [
     "static/css/main.07f21e62.css",
-    "static/js/main.b504af86.js"
+    "static/js/main.4b9d2fdb.js"
   ]
 }
